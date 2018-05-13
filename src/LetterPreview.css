@@ -1,0 +1,15 @@
+.Letter {
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
+
+.letter-paper {
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .7);
+    font-size: 0.7em;
+    height: 420px;
+    padding: 20px;
+    padding-left: 32px;
+    width: 320px;
+}

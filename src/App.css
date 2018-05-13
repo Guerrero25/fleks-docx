@@ -1,0 +1,12 @@
+body {
+    background: white;
+}
+
+.App {
+    min-height: 100vh;
+}
+
+.app-title {
+    font-size: 2em;
+    text-align: center;
+}

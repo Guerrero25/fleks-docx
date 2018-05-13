@@ -1,0 +1,21 @@
+{
+  "name": "fleks-docx",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "docxtemplater": "^3.6.2",
+    "file-saver": "^1.3.8",
+    "jszip": "^2.6.1",
+    "jszip-utils": "0.0.2",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
